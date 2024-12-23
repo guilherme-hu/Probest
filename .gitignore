@@ -1,0 +1,5 @@
+# Ignorar arquivos específicos de datasets
+*.csv
+
+dataset_chromecast.csv
+dataset_smart-tv.csv
